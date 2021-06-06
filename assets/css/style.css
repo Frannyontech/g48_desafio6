@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #000;
+}
+
+.ricomida-lobster{
+    font-family: 'lobster', cursive;
+    
+}
+
+section{
+    font-family: 'cabin';
+}
+
+.chicago{
+    font-size: 2.5rem;
+}
+
+@media (min-width: 768px){
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.carousel-indicators{
+    top: 200px;
+}
+}
+footer{
+    background-color: #25252D;
+    color: #fff;
+}
+
+.text-lobster{
+    font-family: lobster;
+}
+
+.mejores{
+    font-size: 20px;
+}
+
