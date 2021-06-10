@@ -14,5 +14,16 @@ $( document ).ready(function(){
         </div>`
         section_alert.append(nodo);
     });
+
+    $("#dblclick-color").on("dblclick", function(){
+        $(this).css({
+        "color": "red"
+        });
+    });
+    $("#dbclick-color_2").on("dblclick", function(){
+        $(this).css({
+        "color": "red"
+        });
+    });
 });
 
